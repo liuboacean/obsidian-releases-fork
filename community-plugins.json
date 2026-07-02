@@ -25051,5 +25051,12 @@
     "author": "OpenAgentMarket",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Run OpenAgent tasks from Obsidian Canvas through a local Codex server and Codex Desktop.",
     "repo": "openagentmarket/openagent-obsidian-plugin"
+  },
+  {
+    "id": "obsidian-local-sync",
+    "name": "Obsidian Local Sync",
+    "author": "liuboacean",
+    "description": "LAN bidirectional vault sync — CRDT auto-merge, PSK auth, UDP discovery",
+    "repo": "liuboacean/obsidian-local-sync-plugin"
   }
 ]
